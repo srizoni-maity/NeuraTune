@@ -11,6 +11,7 @@ An AI-powered system that detects emotions from facial expressions and recommend
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?style=flat&logo=tensorflow)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=flat&logo=opencv)  
 
+https://github.com/srizoni-maity/NeuraTune/blob/main/demo.jpg
 ---
 
 ## ✨ Features  
