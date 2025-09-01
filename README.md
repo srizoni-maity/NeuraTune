@@ -48,7 +48,6 @@ pip install -r requirements.txt
 2️⃣ Download Dataset & Model
 
 📥 FER-2013 dataset → Place in fer2013/
-
 📥 Pre-trained model → Place in model/
 
 3️⃣ Run the App
@@ -58,20 +57,15 @@ python scripts/run.py
 🛠️ Tech Stack
 
 Python 3.8+
-
 TensorFlow / Keras → Emotion detection CNN
-
 OpenCV → Face capture & processing
-
 NumPy, Pandas, Matplotlib → Data handling & visualization
 
 
 ## Future Roadmap
 
 🎧 Spotify/YouTube API integration (stream songs directly).
-
 💻 GUI Application (Tkinter / PyQt).
-
 📹 Real-time webcam emotion detection.
 
 
@@ -79,14 +73,11 @@ NumPy, Pandas, Matplotlib → Data handling & visualization
 
 Srizoni Maity 
 LinkedIn : [https://www.linkedin.com/in/srizoni-maity-012235356]
-
 📧 Contact: [im.srizoni@gmail.com]
 
 
 🙌 Acknowledgments
 
 FER-2013 dataset for training.
-
 TensorFlow & Keras docs.
-
 Inspiration from the idea of connecting AI + Human emotions + Music.
